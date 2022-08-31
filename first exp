@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <header> 
+    <h1>welcome to the web development</h1>
+</header>
+
+<div>
+    <h2>outline</h2>
+<ul>
+    <liv>HTML</liv>
+    <liv>CSS</liv>
+    <liv>javascript</liv>
+
+
+
+</ul>
+</div>
+  
+<main>
+    <div> 
+        <h2>introduction to html</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit atque iusto recusandae voluptates et dolorum sapiente, ab eaque rem dignissimos ducimus illo dolore laudantium quibusdam modi eligendi, totam dolores consequuntur.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut maxime culpa iusto beatae assumenda impedit sequi, neque provident fugit, unde cupiditate magnam molestiae quaerat voluptas consequuntur ad harum saepe perferendis!</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ut magni accusamus optio distinctio explicabo nisi architecto, modi fugit error odit eum asperiores quod saepe, nihil quibusdam maiores! Velit?
+        Amet eius, laborum eum explicabo, reprehenderit nemo delectus ducimus architecto illo, dolor qui aliquam in illum possimus voluptatem iure fuga nostrum velit laudantium? Cumque possimus iusto praesentium quis dicta laudantium!</p>
+    </div>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_Qh6FMf5F4r_iEADY7iint4X1P-X8LLKfeZIgmQ&s" width="25%;" >
+    <hr>
+<div>
+<h2>introduction to css</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad placeat laboriosam suscipit, quidem possimus molestias
+    perspiciatis. Quae, vero delectus nulla sunt enim iste voluptates minima dolore ab eveniet voluptatibus qui.</p>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto mollitia tempore nemo corporis dignissimos,
+    reprehenderit adipisci sunt quas reiciendis animi voluptas nulla, inventore similique vitae fugiat voluptate commodi
+    molestiae? Aspernatur.</p>
+
+<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="25%;" >
+
+<h3>reference here</h3>
+<a href="https://github.com/Asabeneh/30-Days-Of-HTML" target="_blank">CSS link</a>
+</div>
+<hr>
+<div>
+    <h2>Introduction to javascript</h2>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium placeat illum magni! Veniam doloremque, tenetur fugiat vitae excepturi exercitationem neque reiciendis inventore, consequatur esse aspernatur! Reiciendis labore eum modi ab.
+Deserunt aperiam ipsa culpa blanditiis perspiciatis, magni amet ex. Maxime, nesciunt perferendis inventore reiciendis non ipsam quod eveniet facere, tempora aliquam incidunt commodi expedita aut saepe vel quisquam ducimus dolores!
+Rem officiis dolore necessitatibus atque, ea exercitationem magni incidunt tempore eaque, iure, doloremque unde culpa nesciunt. Ad numquam provident vel, quia eos id aut. Quas rerum ducimus est in recusandae.</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_Qh6FMf5F4r_iEADY7iint4X1P-X8LLKfeZIgmQ&s" width="25%;" >
+
+<h3>reference here</h3>
+<a href="https://www.google.com/" target="_blank">Click me</a>
+
+</div>
+<footer>
+<h2>place to learn code</h2>
+<small>copy right 2022</small>
+</footer>
+
+  </main>
+</body>
+</html>
